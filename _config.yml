@@ -8,8 +8,8 @@ description: |
 owner: EJ Salt # or company name
 first_published: 2021 # if migrating another site, the year of your first publish
 email:
-baseurl: "/thunderman.site" # the subpath of your site, e.g. /blog
-url: "https://voidnologo.github.io/thunderman.site/" # the base hostname & protocol for your site
+baseurl: "/thunderman" # the subpath of your site, e.g. /blog
+url: "https://voidnologo.github.io/thunderman/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
